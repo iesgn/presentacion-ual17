@@ -4,7 +4,7 @@ title: Automatización
 tema: white
 ---
 <section>
-  <h2>Automatización en IaaS</h2>
+  <h2>Programando infraestructura en la nube</h2>
   <p>
     <a href="http://albertomolina.wordpress.com">Alberto Molina Coballes</a> y
     <a href="http://www.josedomingo.org">José Domingo Muñoz Rodríguez</a>
