@@ -1,14 +1,15 @@
 ---
 layout: presentacion
-title: Automatización
+title: Programando infraestructura en la nube
 tema: white
 ---
 <section>
   <h2>Programando infraestructura en la nube</h2>
-  <p>
+  <h4>IV Jornadas de Informática de la UAL</h4>
+  <small>
     <a href="http://albertomolina.wordpress.com">Alberto Molina Coballes</a> y
     <a href="http://www.josedomingo.org">José Domingo Muñoz Rodríguez</a>
-  </p>
+  </small>
   <p>
     <a href="http://creativecommons.org/licenses/by-sa/3.0/">
       <img src="img/cc_by_sa.png" width="100px" border="0"/></a>
