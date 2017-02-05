@@ -1,7 +1,7 @@
 ---
 layout: presentacion
 title: Programando infraestructura en la nube
-tema: white
+tema: serif
 ---
 <section>
   <h2>Programando infraestructura en la nube</h2>
