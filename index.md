@@ -98,7 +98,7 @@ tema: white
   <li>Amazon CloudFormation</li>
   </ul>
   
-    <center><em>O mejor aún: combinando varios de ellos</em></center>
+    <center><strong>O mejor aún: combinando varios de ellos</strong></center>
   
 </section>
 <section>
