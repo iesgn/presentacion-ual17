@@ -99,7 +99,7 @@ tema: white
   </ul>
   
     <center><em>O mejor aún: combinando varios de ellos</em></center>
-  </ul>
+  
 </section>
 <section>
   <h1>Lo ponemos en práctica...</h1>
