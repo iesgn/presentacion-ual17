@@ -68,10 +68,16 @@ tema: white
 <section>
   <h3>¿Qué programamos?</h3>
   <ul>
-    <li>Aprovisionamiento de recursos</li>
-    <li>Configuración de los recursos</li>
+    <li>Creación del escenario (MV, Redes, Almacenamiento, LB,...)</li>
+    <li>Configuración de los recursos (Instalar y configurar software)</li>
     <li>Respuestas ante eventos</li>
   </ul>
+</section>
+<section>
+  <h3>¡¡¡Pero, estamos hablando de lo mismo!!!</h3>
+  <p>><em>¿Hay diferencia entre crear un escenario y configurar el software de la infaestrucura creada?</em></p>
+  <center><h1>NO HAY DIFERENCIA!!!</h1></center>
+
 </section>
 
 </section>
