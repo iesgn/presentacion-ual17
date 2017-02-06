@@ -41,7 +41,7 @@ tema: white
   </ul>
 </section>
 <section>
-  <q style="margin-bottom: 1em;">El SaaS lo podemos programar, en el PaaS podemos programar. <em>¿Se puede programar la ingraestructura?</em></q>
+  <q style="margin-bottom: 1em;">El SaaS lo podemos programar, en el PaaS podemos programar. <em>¿Se puede programar la infraestructura?</em></q>
 </section>
 </section>
 
