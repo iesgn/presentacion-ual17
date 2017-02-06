@@ -44,13 +44,9 @@ tema: white
   <q style="margin-bottom: 1em;">El SaaS lo podemos programar, en el PaaS podemos programar. <em>¿Se puede programar la infraestructura?</em></q>
 </section>
 </section>
-
-
 <section>
-  <q style="margin-bottom: 1em;">La automatización es en informática el conjunto de métodos que
-    sirven para realizar tareas repetitivas en un ordenador</q>
-  <br />
-  
+  <h3>Programación de Infraestructura</h3>
+  <h4>Automatización de la configuración</h4>
   <ul>
     <li>La automatización es cada vez más habitual en entornos de
       infraestructura clásica (máquinas físicas o virtuales)</li>
