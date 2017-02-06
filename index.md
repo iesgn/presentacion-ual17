@@ -45,6 +45,7 @@ tema: white
 </section>
 </section>
 <section>
+<section>
   <h3>Programación de Infraestructura</h3>
   <h4>Automatización de la configuración</h4>
   <ul>
@@ -56,13 +57,25 @@ tema: white
   </ul>
 </section>
 <section>
-  <h3>¿Qué automatizar?</h3>
+  <h3>¿Por qué programamos la Infraestructura?</h3>
+  <ul>
+    <li>En el desplegue moderno de aplicaciones web es indispensable acercar los entornos de desarrollo, prueba y producción. </li>
+    <li>Por la elasticidad que nos ofrece el Cloud Computing. Los recursos pueden aumentar bajo demanda.</li>
+    <li>Para menejar tu infraestructura como tu software</li>
+    <h4>DevOps...<em>¿Esoqueloqué?</em></h4>
+</section>
+<section>
+  <h3>¿Qué programamos?</h3>
   <ul>
     <li>Aprovisionamiento de recursos</li>
     <li>Configuración de los recursos</li>
     <li>Respuestas ante eventos</li>
   </ul>
 </section>
+
+</section>
+
+
 <section>
   <h3>Herramientas genéricas</h3>
   <ul>
