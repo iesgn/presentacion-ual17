@@ -75,8 +75,8 @@ tema: white
 </section>
 <section>
   <h3>¡¡¡Pero, estamos hablando de lo mismo!!!</h3>
-  <p>><em>¿Hay diferencia entre crear un escenario y configurar el software de la infaestrucura creada?</em></p>
-  <center><h1>NO HAY DIFERENCIA!!!</h1></center>
+  <p><em>¿Hay diferencias entre crear un escenario y configurar el software de la infaestrucura creada?</em></p>
+  <center><h1>NO HAY DIFERENCIAS!!!</h1></center>
 
 </section>
 
@@ -84,46 +84,23 @@ tema: white
 
 
 <section>
-  <h3>Herramientas genéricas</h3>
+  <h3>Gestores de configuración</h3>
+  <p>Software que nos permite programar infraestructura.</p>
+  
   <ul>
-    <li>Shell scripts</li>
-    <li>Aplicación en un lenguaje de alto nivel. APIs</li>
-    <li>Bibliotecas de despliegue: Capistrano o Fabric</li>
-    <li>Herramientas de gestión de la configuración:
-      <ul>
 	<li>Puppet</li>
 	<li>Chef</li>
 	<li>Ansible</li>
 	<li>Salt (SaltStack)</li>
-      </ul>
-    </li>
-    <li>O mejor aún: combinando varios de ellos</li>
+  <li>Vagrant</li>
+  <li>Terraform</li>
+  <li>Heat (OpenStack)</li>
+  <li>Amazon CloudFormation</li>
+  </ul>
+  
+    <center><em>O mejor aún: combinando varios de ellos</em></center>
   </ul>
 </section>
 <section>
-  <h3>cloud-config</h3>
-  <ul>
-    <li>Configura una instancia a partir de los parámetros del
-      servidor de metadatos</li>
-    <li>Se configuran en la opción "User data" de Portal o en "Script
-      personalizado" de Horizon</li>
-    <li>Utilizado en otras nubes públicas y privadas
-    <li>La aplicación más utilizada es cloud-init, desarrollado por
-    Canonical</li>
-  </ul>
+  <h1>Lo ponemos en práctica...</h1>
 </section>
-<section>
-  <h3>Orquestación</h3>
-  <ul>
-    <li>En cloud computing se refiere a la posibilidad de gestionar de
-      forma automática el aprovisionamiento, la configuración e incluso
-      la respuesta a eventos</li>
-    <li>Específicamente utilizando herramientas propias</li>
-    <li>El componente de OpenStack encargado de la orquestación se
-      denomina heat</li>
-    <li>Amazon CloudFormation</li>
-    <li>OASIS Topology and Orchestration Specification for Cloud
-      Applications (TOSCA)</li>
-  </ul>
-</section>
-    
