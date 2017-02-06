@@ -62,7 +62,7 @@ tema: white
     <li>En el desplegue moderno de aplicaciones web es indispensable acercar los entornos de desarrollo, prueba y producción. </li>
     <li>Por la elasticidad que nos ofrece el Cloud Computing. Los recursos pueden aumentar bajo demanda.</li>
     <li>Para menejar tu infraestructura como tu software</li>
-    <h4>DevOps...<em>¿Esoqueloqué?</em></h4>
+    <center><h4>DevOps...<em>¿Esoqueloqué?</em></h4></center>
   </ul>
 </section>
 <section>
