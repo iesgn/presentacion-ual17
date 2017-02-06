@@ -1,7 +1,7 @@
 ---
 layout: presentacion
 title: Programando infraestructura en la nube
-tema: serif
+tema: white
 ---
 <section>
   <h2>Programando infraestructura en la nube</h2>
@@ -41,7 +41,7 @@ tema: serif
   </ul>
 </section>
 <section>
-  <q style="margin-bottom: 1em;">El SaaS lo podemos programar, en el PaaS podemos programar. <em>¿Se puede programar la ingraestructura?</em>
+  <q style="margin-bottom: 1em;">El SaaS lo podemos programar, en el PaaS podemos programar. <em>¿Se puede programar la ingraestructura?</em></q>
 </section>
 </section>
 
