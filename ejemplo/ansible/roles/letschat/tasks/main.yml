@@ -1,0 +1,16 @@
+- name: mongo
+  docker_container:
+    name: some-mongo
+    image: mongo
+    state: started
+
+- name: letschat
+  docker_container:
+    name: letschat
+    image: sdelements/lets-chat
+    state: started
+    links:
+     - "some-mongo:mongo"
+    ports:
+     - "80:8080"
+
