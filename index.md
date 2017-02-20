@@ -103,8 +103,11 @@ tema: white
 		<h3>Aplicación nativa cloud</h3>
 		<ul>
 		<li>Habitualmente la aplicación ignora la infraestructura</li>
-		<li>Aplicaciones resilientes</li>
+		<li>¿Qué podría cambiarse?:
+		<ul>
+		<li>Aplicaciones resilientes</li>		
 		<li>Infraestructura dinámica autogestionada</li>
+		</ul></li>
 		</ul>
 	</section>
 </section>
@@ -143,25 +146,36 @@ tema: white
 	<!-- <center><h1>NO HAY DIFERENCIAS!!!</h1></center> -->
 	</section>
 </section>
-
 <section>
-  <h3>Gestores de configuración</h3>
-  <p>Software que nos permite programar infraestructura.</p>
-  
-  <ul>
-	<li>Puppet</li>
-	<li>Chef</li>
-	<li>Ansible</li>
-	<li>Salt (SaltStack)</li>
-  <li>Vagrant</li>
-  <li>Terraform</li>
-  <li>Heat (OpenStack)</li>
-  <li>Amazon CloudFormation</li>
-  </ul>
-  
-    <center><strong>O mejor aún: combinando varios de ellos</strong></center>
-  
+	<section>
+		<h3>Herramientas</h3>
+		<ul>
+		<li>Lenguajes de programación</li>
+		<li>Software de orquestación</li>
+		<li>Software de gestión de la configuración</li>
+		</ul>
+		<p>... y de software libre ;)</p>
+	</section>
+	<section>
+		<h3>Orquestación</h3>
+		<ul>
+		<li>Vagrant (escenarios simples)</li>
+		<li>Cloudformation (AWS)</li>
+		<li>Heat (OpenStack)</li>
+		<li>Terraform</li>
+		<li>Juju</li>
+		</ul>
+	</section>
+	<section>
+		<h3>Gestión de la configuración</h3>
+		<ul>
+		<li>Puppet</li>
+		<li>Chef</li>
+		<li>Ansible</li>
+		<li>Salt (SaltStack)</li>
+		</ul>
+	</section>
 </section>
 <section>
-  <h1>Lo ponemos en práctica...</h1>
+  <h1>Demo</h1>
 </section>
