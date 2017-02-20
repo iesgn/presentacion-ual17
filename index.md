@@ -58,7 +58,9 @@ tema: white
     <h3>Recursos variables</h3>
     <ul>
     <li>Aplicaciones con demanda muy variable: web</li>
+    </ul>
     <a href="img/munin-memory-monitoring.jpg"><img  class="plain" src="img/munin-memory-monitoring.jpg" alt="Munin web" /></a>
+    <ul>
     <li>Elasticidad y escalado horizontal</li>
     <li>Automatización en la creación y destrucción de nodos</li>
     </ul>
@@ -72,7 +74,7 @@ tema: white
     </ul>
   </section>
   <section>
-    <h3>Aplicación nativa cloud</li>
+    <h3>Aplicación nativa cloud</h3>
     <ul>
       <li>Habitualmente la aplicación ignora la infraestructura</li>
       <li>¿No podría la aplicación gestionarse los recursos?</li>
