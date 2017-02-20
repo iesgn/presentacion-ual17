@@ -17,38 +17,35 @@ tema: white
   <p><small>Theme by: <a href="http://lab.hakim.se/reveal-js/#/">reveal.js</a></small></p>
 </section>
 <section>
-<section>
-  <h3>La nube (Cloud Computing)</h3>
-  <p>El cloud computing o computacion en la nube es una nuevo paradigma que permite ofrecer servicios de computación de forma ágil y sencilla a través de la red.</p>
-  <h4>¿Qué servicios podemos obtener de la nube?</h4>
+  <section>
+    <h3>La nube (Cloud Computing)</h3>
+    <p>El cloud computing o computacion en la nube ofrece servicios de forma ágil y sencilla a través de la red.</p>
+    <h4>¿Qué servicios podemos obtener de la nube?</h4>
+  </section>
+  <section>
+    <h3>La nube</h3>
+    <ul>
+    <li>Software as a Service (SaaS)</li>
+    <li>Para todo el mundo</li>
+    <li>Sobre todo nube pública</li>
+    <li>Programable: APIs, APIs, APIs</li>
+    <li>Los datos ... ¡ay los datos!</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Infraestructura en la nube</h3>
+    <ul>
+    <li>Infrastructure as a Service (IaaS)</li>
+    <li>Máquinas, redes y almacenamiento</li>
+    <li>¿Programable?</li>
+    </ul>
+  </section>
 </section>
 <section>
-  <h3>SaaS</h3>
-  <ul>
-    <li></li>
-  </ul>
-</section>
-<section>
-  <h3>PaaS</h3>
-  <ul>
-    <li></li>
-  </ul>
-</section>
-<section>
-  <h3>IaaS</h3>
-  <ul>
-    <li></li>
-  </ul>
-</section>
-<section>
-  <q style="margin-bottom: 1em;">El SaaS lo podemos programar, en el PaaS podemos programar. <em>¿Se puede programar la infraestructura?</em></q>
-</section>
-</section>
-<section>
-<section>
-  <h3>Programación de Infraestructura</h3>
-  <h4>Automatización de la configuración</h4>
-  <ul>
+  <section>
+    <h3>Programación de Infraestructura</h3>
+    <h4>Automatización de la configuración</h4>
+    <ul>
     <li>La automatización es cada vez más habitual en entornos de
       infraestructura clásica (máquinas físicas o virtuales)</li>
     <li>La automatización es <strong>obligatoria</strong> en
