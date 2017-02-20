@@ -37,7 +37,7 @@ tema: white
 		<li>Infrastructure as a Service (IaaS)</li>
 		<li>Máquinas, redes y almacenamiento</li>
 		<li>Y además ... recursos adicionales:
-		<p>DNSaaS, LBaaS, DBaaS, ...</p>
+		<p>DNSaaS, LBaaS, DBaaS, ...</p></li>
 		<li>¿Programable?</li>
 		</ul>
 	</section>
