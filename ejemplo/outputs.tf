@@ -1,3 +1,3 @@
 output "address" {
-  value = "${aws_eip.lb.public_ip}"
+  value = "${aws_eip.ip_elastica.public_ip}"
 }
