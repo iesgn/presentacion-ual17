@@ -55,7 +55,30 @@ tema: white
     </ul>
   </section>
   <section>
-    <h3>Programación de Infraestructura</h3>
+    <h3>Recursos variables</h3>
+    <ul>
+    <li>Aplicaciones con demanda muy variable: web</li>
+    <a href="img/munin-memory-monitoring.jpg"><img src="img/munin-memory-monitoring.jpg" alt="Munin web" /></a>
+    <li>Elasticidad y escalado horizontal</li>
+    <li>Automatización en la creación y destrucción de nodos</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Microservicios</h3>
+    <ul>
+      <li>Normalmente a través de contenedores</li>
+      <li>¿Qué infraestructura para las máquinas físicas/virtuales, redes y volúmenes?</li>
+      <li>¿Vamos a gestionar esta infraestructura a mano?</li>
+    </ul>
+  </section>
+  <section>
+    <h3>Aplicación nativa cloud</li>
+    <ul>
+      <li>Habitualmente la aplicación ignora la infraestructura</li>
+      <li>¿No podría la aplicación gestionarse los recursos?</li>
+    </ul>
+  </section>
+  <section>
     <h4>Automatización de la configuración</h4>
     <ul>
     <li>La automatización es cada vez más habitual en entornos de
