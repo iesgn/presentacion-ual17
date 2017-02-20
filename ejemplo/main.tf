@@ -5,8 +5,7 @@ provider "aws" {
     region = "us-east-1"
 }
 
-
-
+# Creación de una instancia
 resource "aws_instance" "web" {
    connection {
     user = "ubuntu"
@@ -14,22 +13,13 @@ resource "aws_instance" "web" {
   }
   subnet_id = "subnet-0a8ecb51"
   instance_type = "t2.micro"
-
-  # Lookup the correct AMI based on the region
-  # we specified
   ami = "ami-e13739f6"
-
-  
   key_name = "key_jdmr"
-
-
-  # We set the name as a tag
+ a tag
   tags {
     "Name" = "prueba"
   }
-
   
-
   provisioner "remote-exec" {
     connection {
         type = "ssh"
@@ -48,12 +38,9 @@ resource "aws_instance" "web" {
       
     ]
   }
-
-
-
 }
-
-resource "aws_eip" "lb" {
+# Creación de la ip elástica
+resource "aws_eip" "ip_elastica" {
   instance = "${aws_instance.web.id}"
   vpc      = true
 }
