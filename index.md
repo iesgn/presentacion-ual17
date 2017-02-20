@@ -44,12 +44,11 @@ tema: white
   <section>
     <h3>DevOps</h3>
     <ul>
-    <li>Tradicionalmente la gente de desarrollo y sistemas con objetivos y responsabilidades diferentes <strong><- Conflicto</strong></li>
-    <li>Pero el objetivo debería ser común</li>
-    <li>¿Cómo?
+    <li><strong>Conflicto:</strong>Tradicionalmente desarrollo y sistemas con objetivos y responsabilidades diferentes</li>
+    <li>El objetivo debería ser común</li>
+    <li>¿Cómo solucionarlo?
     <li><ul>
       <li>Mismas herramientas</li>
-      <li>Integrar sistemas en el desarrollo</li>
       <li>Extender buenas prácticas de desarrollo a sistemas: De integración continua a entrega continua o a despliegue continuo</li>
     </ul></li>
     <li>Implicaciones: Escenarios replicables, automatización de la configuración</li>
