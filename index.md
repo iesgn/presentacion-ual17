@@ -36,6 +36,8 @@ tema: white
 		<ul>
 		<li>Infrastructure as a Service (IaaS)</li>
 		<li>Máquinas, redes y almacenamiento</li>
+		<li>Y además ... recursos adicionales:
+		<p>DNSaaS, LBaaS, DBaaS, ...</p>
 		<li>¿Programable?</li>
 		</ul>
 	</section>
@@ -72,14 +74,6 @@ tema: white
 		</ul>
 	</section>
 	<section>
-		<h3>Aplicación nativa cloud</h3>
-    <ul>
-      <li>Habitualmente la aplicación ignora la infraestructura</li>
-	  <li>Aplicaciones resilientes</li>
-      <li>Infraestructura dinámica autogestionada</li>
-    </ul>
-	</section>
-	<section>
 		<h3>Infraestructura como código</h3>
 		<ul>
 		<li>La configuración es nuestro código</li>
@@ -88,6 +82,31 @@ tema: white
 		<li>Entrega continua/Despliegue continuo</li>
 		</ul>
 	</section>
+	<section>
+		<h3>Big Data</h3>
+		<ul>
+		<li>Necesidad de grandes recursos</li>
+		<li>Cargas variables e impredecibles</li>
+		<li>1 maquina 100 horas o 100 máquinas 1 hora</li>
+		<li>Creación automática de escenarios</li>
+	</section>
+	<section>
+		<h3>Función como servicio</h3>
+		<ul>
+		<li>"Serverless"</li>
+		<li>Ejecutamos código directamente en la nube</li>
+		<li>¿Infraestructura?</li>
+		</ul>
+	</section>
+	<section>
+		<h3>Aplicación nativa cloud</h3>
+		<ul>
+		<li>Habitualmente la aplicación ignora la infraestructura</li>
+		<li>Aplicaciones resilientes</li>
+		<li>Infraestructura dinámica autogestionada</li>
+		</ul>
+	</section>
+</section>
 <!-- 	<section> -->
 <!-- 		<h4>Automatización de la configuración</h4> -->
 <!--     <ul> -->
