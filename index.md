@@ -12,7 +12,7 @@ tema: white
   </small>
   <p>
     <a href="http://creativecommons.org/licenses/by-sa/3.0/">
-      <img src="img/cc_by_sa.png" width="100px" border="0"/></a>
+      <img class="plain" src="img/cc_by_sa.png" width="100px" border="0"/></a>
   </p>
   <p><small>Theme by: <a href="http://lab.hakim.se/reveal-js/#/">reveal.js</a></small></p>
 </section>
@@ -58,7 +58,7 @@ tema: white
     <h3>Recursos variables</h3>
     <ul>
     <li>Aplicaciones con demanda muy variable: web</li>
-    <a href="img/munin-memory-monitoring.jpg"><img src="img/munin-memory-monitoring.jpg" alt="Munin web" /></a>
+    <a href="img/munin-memory-monitoring.jpg"><img  class="plain" src="img/munin-memory-monitoring.jpg" alt="Munin web" /></a>
     <li>Elasticidad y escalado horizontal</li>
     <li>Automatización en la creación y destrucción de nodos</li>
     </ul>
