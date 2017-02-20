@@ -15,7 +15,6 @@ resource "aws_instance" "web" {
   instance_type = "t2.micro"
   ami = "ami-e13739f6"
   key_name = "key_jdmr"
- a tag
   tags {
     "Name" = "prueba"
   }
