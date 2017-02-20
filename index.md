@@ -26,7 +26,7 @@ tema: white
 		<ul>
 		<li>Software as a Service (SaaS)</li>
 		<li>Para todo el mundo</li>
-		<li>Sobre todo nube pública</li>
+		<li>Principalmente en nube pública</li>
 		<li>Programable: APIs, APIs, APIs</li>
 		<li>Los datos ... ¡ay los datos!</li>
 		</ul>
@@ -89,6 +89,7 @@ tema: white
 		<li>Cargas variables e impredecibles</li>
 		<li>1 maquina 100 horas o 100 máquinas 1 hora</li>
 		<li>Creación automática de escenarios</li>
+		</ul>
 	</section>
 	<section>
 		<h3>Función como servicio</h3>
