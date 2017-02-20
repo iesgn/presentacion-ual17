@@ -18,9 +18,8 @@ tema: white
 </section>
 <section>
   <section>
-    <h3>La nube (Cloud Computing)</h3>
     <p>El cloud computing o computacion en la nube ofrece servicios de forma ágil y sencilla a través de la red.</p>
-    <h4>¿Qué servicios podemos obtener de la nube?</h4>
+    <h4>¿Qué servicios podemos obtener?</h4>
   </section>
   <section>
     <h3>La nube</h3>
@@ -42,6 +41,20 @@ tema: white
   </section>
 </section>
 <section>
+  <section>
+    <h3>DevOps</h3>
+    <ul>
+    <li>Tradicionalmente la gente de desarrollo y sistemas con objetivos y responsabilidades diferentes <strong><- Conflicto</strong></li>
+    <li>Pero el objetivo debería ser común</li>
+    <li>¿Cómo?
+    <li><ul>
+      <li>Mismas herramientas</li>
+      <li>Integrar sistemas en el desarrollo</li>
+      <li>Extender buenas prácticas de desarrollo a sistemas: De integración continua a entrega continua o a despliegue continuo</li>
+    </ul></li>
+    <li>Implicaciones: Escenarios replicables, automatización de la configuración</li>
+    </ul>
+  </section>
   <section>
     <h3>Programación de Infraestructura</h3>
     <h4>Automatización de la configuración</h4>
