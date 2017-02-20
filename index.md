@@ -46,11 +46,11 @@ tema: white
     <ul>
     <li><strong>Conflicto:</strong>Tradicionalmente desarrollo y sistemas con objetivos y responsabilidades diferentes</li>
     <li>El objetivo debería ser común</li>
-    <li>¿Cómo solucionarlo?
-    <li><ul>
+    <li>¿Cómo solucionarlo?</li>
+    <ul>
       <li>Mismas herramientas</li>
       <li>Extender buenas prácticas de desarrollo a sistemas: De integración continua a entrega continua o a despliegue continuo</li>
-    </ul></li>
+    </ul>
     <li>Implicaciones: Escenarios replicables, automatización de la configuración</li>
     </ul>
   </section>
